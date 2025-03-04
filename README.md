@@ -68,10 +68,10 @@ Router, Import alias, App router, dan Turbopack!
     - Screenshot new project yang berhasil dirun
     ![Gambar](src/screenshot/4.png)
 
-<!-- ### Jawaban Praktikum 3
+### Jawaban Praktikum 3
 1. Screenshot bukti pengerjaan
     - Screenshot proses membuat komponen mybutton
-    ![Gambar](src/screenshot/5.png) -->
+    ![Gambar](src/screenshot/5.png)
 
 <!-- ### Jawaban Praktikum 4
 1. Jelaskan apa kegunaan sintaks user.imageUrl
