@@ -79,4 +79,4 @@ Router, Import alias, App router, dan Turbopack!
 
 2. Screenshot bukti pengerjaan
     - Screenshot proses membuat komponen profile
-    ![Gambar](src/screenshot/5.png)
+    ![Gambar](src/screenshot/6.png)
