@@ -73,10 +73,10 @@ Router, Import alias, App router, dan Turbopack!
     - Screenshot proses membuat komponen mybutton
     ![Gambar](src/screenshot/5.png)
 
-<!-- ### Jawaban Praktikum 4
+### Jawaban Praktikum 4
 1. Jelaskan apa kegunaan sintaks user.imageUrl
 - `user.imageUrl` digunakan untuk mengakses URL gambar profil pengguna.
 
 2. Screenshot bukti pengerjaan
     - Screenshot proses membuat komponen profile
-    ![Gambar](src/screenshot/5.png) -->
+    ![Gambar](src/screenshot/5.png)
